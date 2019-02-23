@@ -1,0 +1,36 @@
+/*存放login.html相关css设定*/
+
+
+.loginFieldLabel  .x-form-item-label-default{
+
+          font: 800 13px/17px helvetica, arial, verdana, sans-serif;
+
+}
+
+.x-slider-horz {
+    height:90px;
+}
+
+
+
+.x-slider-horz .x-slider-thumb {
+    background-image:url('/static/resources/thumb.png');
+    margin-top: 06px;
+    margin-left: 01px;
+    height: 30px;
+    width: 49px;
+
+}
+
+.x-slider-horz .x-slider-thumb-over {
+    background-position: 0 0;
+
+}
+.x-slider-horz, .x-slider-horz .x-slider-end, .x-slider-horz .x-slider-inner {
+    height: 40px;
+    padding: 0;
+     width:400;
+    background: 0 0;
+    background-image: url('/static/resources/sliderbar.png');
+
+}

@@ -1,0 +1,11 @@
+2018-12-19 17:51:07,768-INFO-_internal-_log- 88: * Running on http://0.0.0.0:5002/ (Press CTRL+C to quit)  
+2018-12-19 17:51:36,776-INFO-_internal-_log- 88:127.0.0.1 - - [19/Dec/2018 17:51:36] "GET /index HTTP/1.1" 200 -  
+2018-12-19 17:51:36,805-INFO-_internal-_log- 88:127.0.0.1 - - [19/Dec/2018 17:51:36] "GET /static/theme-classic/resources/theme-classic-all.css HTTP/1.1" 200 -  
+2018-12-19 17:51:36,808-INFO-_internal-_log- 88:127.0.0.1 - - [19/Dec/2018 17:51:36] "GET /static/ext/ext-all.js HTTP/1.1" 200 -  
+2018-12-19 17:51:36,811-INFO-_internal-_log- 88:127.0.0.1 - - [19/Dec/2018 17:51:36] "GET /static/theme-classic/theme-classic.js HTTP/1.1" 200 -  
+2018-12-19 17:51:36,812-INFO-_internal-_log- 88:127.0.0.1 - - [19/Dec/2018 17:51:36] "GET /static/ext/backupQuery.js HTTP/1.1" 200 -  
+2018-12-19 17:51:36,814-INFO-_internal-_log- 88:127.0.0.1 - - [19/Dec/2018 17:51:36] "GET /static/ext/reportQuery.js HTTP/1.1" 200 -  
+2018-12-19 17:51:37,291-INFO-_internal-_log- 88:127.0.0.1 - - [19/Dec/2018 17:51:37] "GET /static/theme-classic/resources/images/tab-bar/default-scroll-right-top.gif HTTP/1.1" 200 -  
+2018-12-19 17:51:37,292-INFO-_internal-_log- 88:127.0.0.1 - - [19/Dec/2018 17:51:37] "GET /static/theme-classic/resources/images/tools/tool-sprites.gif HTTP/1.1" 200 -  
+2018-12-19 17:51:37,292-INFO-_internal-_log- 88:127.0.0.1 - - [19/Dec/2018 17:51:37] "GET /static/theme-classic/resources/images/tab-bar/default-scroll-left-top.gif HTTP/1.1" 200 -  
+2018-12-19 17:51:37,359-INFO-_internal-_log- 88:127.0.0.1 - - [19/Dec/2018 17:51:37] "GET /favicon.ico HTTP/1.1" 404 -  

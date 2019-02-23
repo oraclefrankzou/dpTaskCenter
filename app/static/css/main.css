@@ -1,0 +1,99 @@
+
+/*用于导航条*/
+.navtextclass:hover{
+    cursor: pointer;
+    text-decoration:underline;
+}
+
+/*左侧菜单字体设置*/
+.x-tree-node-text {
+    font-weight: 900;
+    margin-top:10px;
+}
+
+.x-grid-item{
+    margin-top:8px;
+}
+
+#promptWin{
+    border-width: 0px;
+}
+
+
+.x-btn-default-delete{
+     border-radius: 3px;
+     padding: 3px 3px 3px 3px;
+     margin-left: 5px;
+     border-width: 1px;
+     border-style: solid;
+     background-color: #D9534F;
+ }
+.x-btn-default-delete:hover{
+     border-radius: 3px;
+     padding: 3px 3px 3px 3px;
+     margin-left: 5px;
+     border-width: 1px;
+     border-style: solid;
+     background-color: #D11715;
+     cursor: pointer
+
+}
+
+.x-btn-default-update {
+    border-radius: 3px;
+    padding: 3px 3px 3px 3px;
+    border-width: 1px;
+    border-style: solid;
+    margin-left: 5px;
+    background-color: #5BC0DE;
+}
+
+.x-btn-default-update:hover {
+    border-radius: 3px;
+    padding: 3px 3px 3px 3px;
+    border-width: 1px;
+    border-style: solid;
+    margin-left: 5px;
+    background-color: #14bbde;
+    cursor: pointer
+}
+
+
+.x-btn-default-stop {
+    border-radius: 3px;
+    padding: 3px 3px 3px 3px;
+    border-width: 1px;
+    border-style: solid;
+    margin-left: 5px;
+    background-color: #F0AD4E
+}
+
+.x-btn-default-stop:hover {
+    border-radius: 3px;
+    padding: 3px 3px 3px 3px;
+    border-width: 1px;
+    border-style: solid;
+    margin-left: 5px;
+    background-color: #F09D29;
+    cursor: pointer
+}
+
+
+.x-btn-default-resume {
+    border-radius: 3px;
+    padding: 3px 3px 3px 3px;
+    border-width: 1px;
+    border-style: solid;
+    margin-left: 5px;
+    background-color: #5CB85C
+}
+
+.x-btn-default-resume:hover {
+    border-radius: 3px;
+    padding: 3px 3px 3px 3px;
+    border-width: 1px;
+    border-style: solid;
+    margin-left: 5px;
+    background-color: #4DB74D;
+    cursor: pointer
+}
