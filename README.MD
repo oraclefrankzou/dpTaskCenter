@@ -15,4 +15,4 @@
 .
 界面:
 
-![image](https://github.com/oraclefrankzou/dpTaskCenter/tree/master/images/20190223164045.jpg)
+![image](https://github.com/oraclefrankzou/dpTaskCenter/blob/master/images/20190223164045.jpg)
