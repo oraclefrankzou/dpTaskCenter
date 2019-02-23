@@ -13,3 +13,6 @@
 单的开发即可进行自定义ansible任务;
 
 .
+界面:
+
+![image](https://github.com/oraclefrankzou/dpTaskCenter/raw/master/images/20190223164045.jpg)
